@@ -12,5 +12,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" : "Jonathan"
+	"author" : "Jonathan",
+	"keywords" : ["freecodecamp","node.js","npm","backend"]
 }
