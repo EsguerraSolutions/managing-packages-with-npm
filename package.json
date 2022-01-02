@@ -14,5 +14,6 @@
 	},
 	"author" : "Jonathan",
 	"keywords" : ["freecodecamp","node.js","npm","backend"],
-	"license" : "MIT"
+	"license" : "MIT",
+	"version" : "1.0.0"
 }
