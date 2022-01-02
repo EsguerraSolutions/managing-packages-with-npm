@@ -13,5 +13,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author" : "Jonathan",
-	"keywords" : ["freecodecamp","node.js","npm","backend"]
+	"keywords" : ["freecodecamp","node.js","npm","backend"],
+	"license" : "MIT"
 }
