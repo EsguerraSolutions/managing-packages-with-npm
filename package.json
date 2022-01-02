@@ -13,7 +13,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" : "Jonathan",
+	"author" : "Life Hacker",
 	"keywords" : ["freecodecamp","node.js","npm","backend"],
 	"license" : "MIT",
 	"version" : "1.0.0"
